@@ -7,7 +7,6 @@ on:
 jobs:
   code-quality:
     name: Code Quality Check
-    name: ${{ matrix.session }} ${{ matrix.python }} / ${{ matrix.os }}
     runs-on: ${{ matrix.os }}
     strategy:
       fail-fast: false
