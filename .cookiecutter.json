@@ -1,16 +1,14 @@
 {
-  "_copy_without_render": [
-    ".github/workflows/pre-commit.yml"
-  ],
-  "_template": "gh:msadministrator/cookiecutter-hypermodern-python",
-  "author": "Josh Rickard",
-  "copyright_year": "2022",
-  "development_status": "Development Status :: 1 - Planning",
-  "email": "rickardja@live.com",
-  "friendly_name": "Msadministrator Package Test",
-  "github_user": "MSAdministrator",
-  "license": "MIT",
-  "package_name": "msadministrator_package_test",
-  "project_name": "msadministrator-package-test",
-  "version": "0.0.1"
+    "_copy_without_render": [".github/workflows/pre-commit.yml"],
+    "_template": "gh:msadministrator/cookiecutter-hypermodern-python",
+    "author": "Josh Rickard",
+    "copyright_year": "2022",
+    "development_status": "Development Status :: 1 - Planning",
+    "email": "rickardja@live.com",
+    "friendly_name": "Msadministrator Package Test",
+    "github_user": "MSAdministrator",
+    "license": "MIT",
+    "package_name": "msadministrator_package_test",
+    "project_name": "msadministrator-package-test",
+    "version": "0.0.1"
 }

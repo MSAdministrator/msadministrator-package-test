@@ -47,7 +47,7 @@ repos:
         require_serial: true
         language: system
         types_or: [cython, pyi, python]
-        args: ["./src/msadministrator_package_test", "--check-only", "--profile", "black"]
+        args: ["./src/msadministrator_package_test"]
       - id: pyupgrade
         name: pyupgrade
         description: Automatically upgrade syntax for newer versions.
